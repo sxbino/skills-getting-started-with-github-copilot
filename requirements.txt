@@ -1,5 +1,2 @@
-pytest
-httpx
-pytest-asyncio
 fastapi
 uvicorn
